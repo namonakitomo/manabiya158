@@ -1,11 +1,11 @@
 h1 {
-    color:rgb(240, 0, 0);
-    font-size: 80px;
+    color:rgb(20, 20, 200);
+    font-size: 100px;
     font-family:georgia;
 }
 
 h2 {
-    color:rgb(240, 150, 150);
+    color:rgb(20, 20, 200);
 }
 
 div {
@@ -13,6 +13,6 @@ div {
 }
 
 img {
-    border: double 10px rgb(240, 150, 150);
-    border-radius: 50%;
+    border: double 10px rgb(20, 20, 200);
+    border-radius: 80%;
 }
