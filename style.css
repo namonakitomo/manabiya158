@@ -1,0 +1,18 @@
+h1 {
+    color:rgb(240, 255, 25);
+    font-size: 80px;
+    font-family:georgia;
+}
+
+h2 {
+    color:rgb(240, 150, 150);
+}
+
+div {
+    text-align:center;
+}
+
+img {
+    border: double 10px rgb(240, 150, 150);
+    border-radius: 50%;
+}
